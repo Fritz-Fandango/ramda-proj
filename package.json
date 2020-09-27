@@ -1,7 +1,6 @@
 {
   "name": "ramda-proj",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,6 +10,17 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25",
+    "moment": "^2.29.0",
     "ramda": "^0.27.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fritz-Fandango/ramda-proj.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Fritz-Fandango/ramda-proj/issues"
+  },
+  "homepage": "https://github.com/Fritz-Fandango/ramda-proj#readme",
+  "description": ""
 }
