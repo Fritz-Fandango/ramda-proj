@@ -1,10 +1,10 @@
-/* 
+/*
  *
  * The product() function multiplies together all the elements of a list.
- * 
+ *
  * $ node -r esm productfun.mjs
  * 3840
- * 
+ *
  */
 
 import { product } from 'ramda';

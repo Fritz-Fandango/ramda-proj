@@ -1,11 +1,11 @@
 /*
- * 
+ *
  * The flip() function returns a new function from the supplied one where its arguments are reversed.
  *
  * $ node -r esm flipfun.mjs
  * -8
  * 8
- * 
+ *
  */
 
 import { subtract, flip } from 'ramda';

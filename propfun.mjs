@@ -1,11 +1,11 @@
 /*
  *
  * The prop() function returns the specified property of an object if it exists.
- *  
+ *
  * $ node -r esm propfun.js
  * John
  * 25
- * 
+ *
  */
 
 import { prop } from 'ramda';

@@ -1,11 +1,11 @@
 /*
- * 
+ *
  * The apply() function invokes a provided function on a list of arguments.
  *
  * $ node -r esm applyfun.mjs
  * 1
  * 8
- * 
+ *
  */
 
  import { apply } from 'ramda';

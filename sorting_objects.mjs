@@ -1,7 +1,7 @@
-/* 
+/*
  *
  * The sortBy() function sort the list according to the supplied function.
- * 
+ *
  * $ node -r esm sorting_objects.mjs
  * Sorted by age:
  * [ { name: 'John', age: 25 },
@@ -21,7 +21,7 @@
  *   { name: 'Lenny', age: 51 },
  *   { name: 'Peter', age: 81 },
  *   { name: 'Robert', age: 72 } ]
- * 
+ *
  */
 
 import { prop, sortBy } from 'ramda';

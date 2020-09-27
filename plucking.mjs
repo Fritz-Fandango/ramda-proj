@@ -1,7 +1,7 @@
 /*
  *
  * The pluck() function returns a new list by plucking the specified property off all objects in the list supplied.
- *  
+ *
  * $ node -r esm plucking.mjs
  * [ 25, 51, 43, 81, 43, 76, 47, 72 ]
  * [ 'John',
@@ -12,7 +12,7 @@
  *   'Alberto',
  *   'Adam',
  *   'Robert' ]
- * 
+ *
  */
 
  import { pluck } from 'ramda';

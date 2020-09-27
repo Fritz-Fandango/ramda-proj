@@ -1,11 +1,11 @@
 /*
  *
  * The pluck() function returns a new list by plucking the specified property off all objects in the list supplied.
- *  
+ *
  * $ node -r esm plucking2.mjs
  * The oldest person is 81 years old.
  * The youngest person is 25 years old.
- * 
+ *
  */
 
 import { apply, pluck } from 'ramda';

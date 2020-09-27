@@ -1,12 +1,12 @@
 /*
  *
  * The add() function adds two values, and the subtract() function subtracts two values.
- * 
+ *
  * $ node -r esm add_sub.mjs
  * 7
  * -3
  * -1
- * 
+ *
  */
 
 import { add, subtract } from 'ramda';

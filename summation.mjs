@@ -1,11 +1,11 @@
-/* 
+/*
  *
  * The sum() function sums all the elements of a list.
- * 
+ *
  * $ node -r esm summation.mjs
  * 30
  * 55
- * 
+ *
  */
 
 import { range, sum } from 'ramda';

@@ -1,11 +1,11 @@
-/* 
+/*
  *
  * The length() function returns the number of elements in the list.
- * 
+ *
  * $ node -r esm lengthfn.mjs
  * 12
  * 7
- * 
+ *
  */
 
 import { length, uniq } from 'ramda';

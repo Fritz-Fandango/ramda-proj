@@ -1,11 +1,11 @@
 /*
  *
  * With splitEvery() function, we can split a list into chunks of specified length.
- *  
+ *
  * $ node -r esm chunks.mjs
  * [ [ 1, 2 ], [ 3, 4 ], [ 5, 6 ] ]
  * [ [ 1, 2, 3 ], [ 4, 5, 6 ] ]
- * 
+ *
  */
 
 import { splitEvery } from "ramda";

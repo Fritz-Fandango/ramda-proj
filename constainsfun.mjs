@@ -1,11 +1,11 @@
 /*
  *
  * The contains() function returns true if the specified value is in the list.
- * 
+ *
  * $ node -r esm containsfun.mjs
  * There is John in the list
  * There is Alberto in the list
- * 
+ *
  */
 
 import { apply, contains, pluck } from 'ramda';
