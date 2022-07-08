@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "esm": "^3.2.25",
-    "moment": "^2.29.0",
+    "moment": "^2.29.4",
     "ramda": "^0.27.1"
   },
   "devDependencies": {},
